@@ -70,3 +70,9 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
+
+.icon {
+  height: 70px;
+  width: 70px;
+  color: red;
+}
